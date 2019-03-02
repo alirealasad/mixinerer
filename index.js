@@ -1,5 +1,5 @@
-function mixinerer(target,sources1,sources2) {
-  Object.assign(target.prototype,sources1,sources2);
+function mixinerer(target,...sources) {
+  Object.assign(target.prototype,...sources);
 }
 
 module.exports = mixinerer;
