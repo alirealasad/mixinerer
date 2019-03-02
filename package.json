@@ -1,0 +1,23 @@
+{
+  "name": "mixinerer",
+  "version": "1.0.0",
+  "description": "it is a mixin maker in js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asadali3/mixinerer.git"
+  },
+  "keywords": [
+    "mixin",
+    "mixer"
+  ],
+  "author": "asad ali <alirealasad@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asadali3/mixinerer/issues"
+  },
+  "homepage": "https://github.com/asadali3/mixinerer#readme"
+}
